@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1348186764 source:/home/joao/Dropbox/TAREFAS_UFMG/AEDS3/tp0/tp0/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp0.h"
+
+1348100434 source:/home/joao/tp0/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp0.h"
+
+1347916704 /home/joao/tp0/tp0.h
+
+1347916704 /home/joao/Dropbox/TAREFAS_UFMG/AEDS3/tp0/tp0/tp0.h
+
+1348188883 source:/home/joao/Dropbox/TAREFAS_UFMG/AEDS3/tp0/tp0/tp0.c
+	<stdio.h>
+	<stdlib.h>
+	"tp0.h"
+
+1348186764 source:/home/joao/Documentos/tp0/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp0.h"
+
+1347916704 /home/joao/Documentos/tp0/tp0.h
+
+1348327958 source:/home/joao/Documentos/tp0/tp0.c
+	<stdio.h>
+	<stdlib.h>
+	"tp0.h"
+
